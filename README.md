@@ -68,4 +68,8 @@ Note: try to assign 8G memory and 2CPU in Docker when running the docker build
 
 `docker pull TBD`
 
+### Deploying using CI
+
+Push changes to the repository
+
 `docker run -d -p 5005:5005 TBD`
